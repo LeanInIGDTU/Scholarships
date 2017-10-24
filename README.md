@@ -1,4 +1,4 @@
-# GHC-Scholarships
+# Scholarships
 
 Comprehensive list of student scholarships. This list aims
 to cover all relevant technical scholarships.
